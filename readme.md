@@ -2,9 +2,9 @@
 I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer and data enthusiast. With practical experience as a Data Specialist Intern, I have worked on real-time data projects using Microsoft Power Platform tools and programming languages. I am passionate about turning data into insights, building automated solutions, and continuously improving my technical skills while contributing to innovative projects.<br> <br>Data Specialist trainee at Technical Hub,<br><br>Programming Languages:<br>C, Java, Python<br>HTML-CSS
 
 ## projects:
-![StockInfo: Real time stock monitoring system]<br>
-![Hoot Dashboard]<br>
-br![Path finder: course recomendation system]
+StockInfo: Real time stock monitoring system<br>
+Hoot Dashboard<br>
+Path finder: course recomendation system
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lavanya-rayudu-5857102a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavanyarayudu075@gmail.com) 
