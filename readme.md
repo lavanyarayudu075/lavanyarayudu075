@@ -5,8 +5,8 @@ I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer
 Task Completion Dashboard<br>
 StockInfo: Real time stock monitoring system<br>
 Hoot Dashboard<br>
-Path finder: course recomendation system
-Business Sales Performance Dashboard
+Path finder: course recomendation system<br>
+Business Sales Performance Dashboard<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lavanya-rayudu-5857102a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavanyarayudu075@gmail.com) 
