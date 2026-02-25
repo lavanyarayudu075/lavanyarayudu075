@@ -7,7 +7,6 @@ StockInfo: Real time stock monitoring system<br>
 Path finder: course recomendation system<br>
 
 ## Data Analysts - Dashboards(Mini Projects):
-Hoot Dashboard<br>
 Business Sales Performance Dashboard<br>
 Customer Retention and Churn Analysis Dashboard<br>
 
