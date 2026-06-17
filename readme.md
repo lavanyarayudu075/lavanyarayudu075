@@ -1,10 +1,17 @@
 # 💫 About Me:
-I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer and data enthusiast. With practical experience as a Data Specialist Intern, I have worked on real-time data projects using Microsoft Power Platform tools and programming languages. I am passionate about turning data into insights, building automated solutions, and continuously improving my technical skills while contributing to innovative projects.<br> <br>Data Specialist trainee at Technical Hub,<br><br>Programming Languages:<br>C, Java, Python<br>HTML-CSS
+I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer and data enthusiast. With practical experience as a Data Specialist Intern, I have worked on real-time data projects using Microsoft Power Platform tools and programming languages. I am passionate about turning data into insights, building automated solutions, and continuously improving my technical skills while contributing to innovative projects.<br> <br>Data Specialist trainee at Technical Hub,<br><br>Programming Languages:<br>•	Data Visualization: Power BI, Tableau, Dashboard Design <br>
+<br>Programming and Querying: SQL, C, Python, HTML, CSS<br>
+<br>Microsoft Tools: advanced Excel, SharePoint, Power Apps, Power Automate<br>
+<br>Analytics: Data Cleaning, Data Modeling, DAX, Analytical Reporting<br>
+<br>AI & Generative Tools: Google Gemini, ChatGPT, Claude, Agentic AI
+<br>
 
 ## projects:
 Task Completion Dashboard<br>
 StockInfo: Stock Analysis System<br>
 Path finder: course recomendation Analysis System<br>
+Intelliconnect - AI Meeting Assistant (Agentic AI)<br>
+[![LinkedIn](https://github.com/kganeshnagakumar/IntelliConnect/)]
 
 ## Data Analysts - Dashboards(Mini Projects):
 Business Sales Performance Dashboard<br>
