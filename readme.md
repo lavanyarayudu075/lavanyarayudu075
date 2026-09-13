@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![Portfolio](https://lavanya-portfolio-mocha.vercel.app/)]
 I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer and data enthusiast. With practical experience as a Data Specialist Intern, I have worked on real-time data projects using Microsoft Power Platform tools and programming languages. I am passionate about turning data into insights, building automated solutions, and continuously improving my technical skills while contributing to innovative projects.<br> <br>Data Specialist trainee at Technical Hub.
 ## SKILLS:                             <br> 
 ### Data Visualization:
@@ -14,11 +14,11 @@ Google Gemini, ChatGPT, Claude, Agentic AI
 <br>
 
 ## projects:
+OneHub - AI Powered Multi-Tenant Organization Platform
 Task Completion Dashboard<br>
 StockInfo: Stock Analysis System<br>
 Path finder: course recomendation Analysis System<br>
 Intelliconnect - AI Meeting Assistant (Agentic AI)<br>
-[![LinkedIn](https://github.com/kganeshnagakumar/IntelliConnect/)]
 
 ## Data Analysts - Dashboards(Mini Projects):
 Business Sales Performance Dashboard<br>
