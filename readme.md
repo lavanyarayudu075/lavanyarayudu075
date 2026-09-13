@@ -1,4 +1,4 @@
-# 💫 About Me: [![Portfolio](https://lavanya-portfolio-mocha.vercel.app/)]
+# 💫 About Me: [(https://lavanya-portfolio-mocha.vercel.app/)]
 I am Lavanya Rayudu, a motivated and detail-oriented aspiring software developer and data enthusiast. With practical experience as a Data Specialist Intern, I have worked on real-time data projects using Microsoft Power Platform tools and programming languages. I am passionate about turning data into insights, building automated solutions, and continuously improving my technical skills while contributing to innovative projects.<br> <br>Data Specialist trainee at Technical Hub.
 ## SKILLS:                             <br> 
 ### Data Visualization:
