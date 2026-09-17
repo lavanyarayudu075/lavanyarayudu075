@@ -20,6 +20,8 @@ Task Completion Dashboard<br>
 StockInfo: Stock Analysis System<br>
 Path finder: course recomendation Analysis System<br>
 Intelliconnect - AI Meeting Assistant (Agentic AI)<br>
+Smart Disaster Evacutation Guidance System (IOT Project Idea)<br>
+
 
 ## Data Analysts - Dashboards(Mini Projects):
 Business Sales Performance Dashboard<br>
