@@ -15,7 +15,7 @@ Google Gemini, ChatGPT, Claude, Agentic AI
 <br>
 
 ## projects:
-OneHub - AI Powered Multi-Tenant Organization Platform
+OneHub - AI Powered Multi-Tenant Organization Platform<br>
 Task Completion Dashboard<br>
 StockInfo: Stock Analysis System<br>
 Path finder: course recomendation Analysis System<br>
